@@ -1,7 +1,7 @@
 function rand (){
     a = Math.random();
-    a = a * 20;
-    a = Math.ceil(a);
+    a = a * 21;
+    a = Math.floor(a);
     return a
 }
 
