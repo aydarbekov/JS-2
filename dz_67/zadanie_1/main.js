@@ -1,5 +1,5 @@
 function rand (){
-    a = Math.random();
+    let a = Math.random();
     a = a * 21;
     a = Math.floor(a);
     return a
